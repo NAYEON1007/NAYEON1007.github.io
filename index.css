@@ -1,0 +1,8 @@
+body , p {margin: 0}
+#box1 {
+    position: relative;
+    width: 600px;
+    left: 30px;
+    top: 0;
+    background-color: mediumaquamarine;
+}
